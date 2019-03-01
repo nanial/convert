@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="258b55c9-f082-4080-a570-b937cb815ebe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/readme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/main/java/com/mycompany/mavenproject2/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/main/java/com/mycompany/mavenproject2/MemberResourceRESTService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/main/webapp/META-INF/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/main/webapp/WEB-INF/faces-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/main/webapp/WEB-INF/jetty-web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/main/webapp/WEB-INF/templates/default.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/main/webapp/index.jsf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/main/webapp/index.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/main/webapp/resources/css/screen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/main/webapp/resources/gfx/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/main/webapp/resources/gfx/weld.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/test/java/com/mycompany/mavenproject2/BeanManagerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/test/java/com/mycompany/mavenproject2/HelloWorldTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mavenproject2/src/test/resources/jetty-env.xml" afterDir="false" />
+    <list default="true" id="258b55c9-f082-4080-a570-b937cb815ebe" name="Default Changelist" comment="fix">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,25 +35,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/converter/ParsCurrency.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="56" column="45" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/converter/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="75" column="35" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="37" />
+            <state relative-caret-position="531">
+              <caret line="48" column="13" lean-forward="true" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#7533#7534#0" expanded="true" />
-                <element signature="e#7587#7588#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/converter/ParsCurrency.java">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/algorithms.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="56" column="45" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
+            <state relative-caret-position="321">
+              <caret line="129" selection-start-line="129" selection-end-line="129" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,7 +81,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -88,8 +102,9 @@
         <option value="$PROJECT_DIR$/../lessons/src/Calculator.java" />
         <option value="$PROJECT_DIR$/src/com/parser/ParsCurrency.java" />
         <option value="$PROJECT_DIR$/src/com/parser/Customer.java" />
-        <option value="$PROJECT_DIR$/src/com/converter/Customer.java" />
         <option value="$PROJECT_DIR$/src/com/converter/ParsCurrency.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/algorithms.java" />
+        <option value="$PROJECT_DIR$/src/com/converter/Customer.java" />
       </list>
     </option>
   </component>
@@ -138,16 +153,21 @@
               <item name="parser" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
+            <path>
+              <item name="parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551019398745" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551461076095" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last.edited.regexp" value="&#10;" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../lessons/src/Calculator.java" />
@@ -261,13 +281,21 @@
       <option name="presentableId" value="Default" />
       <updated>1550138071281</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1551461142260</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551461142260</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16195373" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16580977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -276,12 +304,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32974428" />
@@ -294,6 +322,11 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/linkedHashSet.java">
@@ -498,8 +531,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/converter/ParsCurrency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
+        <state relative-caret-position="1050">
           <caret line="56" column="45" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/algorithms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -508,12 +551,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/converter/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="75" column="35" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="37" />
+        <state relative-caret-position="531">
+          <caret line="48" column="13" lean-forward="true" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#7533#7534#0" expanded="true" />
-            <element signature="e#7587#7588#0" expanded="true" />
           </folding>
         </state>
       </provider>
