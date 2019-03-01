@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="258b55c9-f082-4080-a570-b937cb815ebe" name="Default Changelist" comment="fix">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Button.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/converter/com/converter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/converter/com/converter/Main.class" afterDir="false" />
-    </list>
+    <list default="true" id="258b55c9-f082-4080-a570-b937cb815ebe" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +26,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/converter/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="48" column="13" lean-forward="true" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+            <state relative-caret-position="-60">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,15 +123,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="converter" type="462c0819:PsiDirectoryNode" />
               <item name="Customer.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
@@ -255,9 +221,9 @@
     </configuration>
     <list>
       <item itemvalue="Application.Bankomat" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Calculator" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Java Scratch.Main" />
     </list>
     <recent_temporary>
@@ -288,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551461142260</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix">
+      <created>1551461238454</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551461238454</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -310,7 +283,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32974428" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="8" side_tool="true" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -324,9 +297,9 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/linkedHashSet.java">
@@ -551,8 +524,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/converter/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="48" column="13" lean-forward="true" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        <state relative-caret-position="-60">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
